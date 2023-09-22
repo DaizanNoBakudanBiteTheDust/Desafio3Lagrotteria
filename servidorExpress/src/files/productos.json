@@ -1,0 +1,164 @@
+[
+    {
+        "titulo": "MOPA",
+        "descripcion": "Limpia piso",
+        "precion": "20 pesos",
+        "thumbnail": "data:image/jpeg;base64,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",
+        "code": "1234",
+        "stock": "20",
+        "id": 1
+    },
+    {
+        "titulo": "Escoba",
+        "descripcion": "barre piso",
+        "precio": "30$",
+        "thumbnail": "https://www.avalco.cl/3650-thickbox_default/escoba5costuras.jpg",
+        "code": "121123",
+        "stock": "10",
+        "id": 2
+    },
+    {
+        "titulo": "Escoba",
+        "descripcion": "barre piso",
+        "precio": "30$",
+        "thumbnail": "https://www.avalco.cl/3650-thickbox_default/escoba5costuras.jpg",
+        "code": "121123",
+        "stock": "10",
+        "id": 3
+    },
+    {
+        "titulo": "Escoba",
+        "descripcion": "barre piso",
+        "precio": "30$",
+        "thumbnail": "https://www.avalco.cl/3650-thickbox_default/escoba5costuras.jpg",
+        "code": "121123",
+        "stock": "10",
+        "id": 5
+    },
+    {
+        "titulo": "Escoba",
+        "descripcion": "barre piso",
+        "precio": "30$",
+        "thumbnail": "https://www.avalco.cl/3650-thickbox_default/escoba5costuras.jpg",
+        "code": "121123",
+        "stock": "10",
+        "id": 6
+    },
+    {
+        "titulo": "Escoba",
+        "descripcion": "barre piso",
+        "precio": "30$",
+        "thumbnail": "https://www.avalco.cl/3650-thickbox_default/escoba5costuras.jpg",
+        "code": "121123",
+        "stock": "10",
+        "id": 7
+    },
+    {
+        "titulo": "Escoba",
+        "descripcion": "barre piso",
+        "precio": "30$",
+        "thumbnail": "https://www.avalco.cl/3650-thickbox_default/escoba5costuras.jpg",
+        "code": "121123",
+        "stock": "10",
+        "id": 8
+    },
+    {
+        "titulo": "Escoba",
+        "descripcion": "barre piso",
+        "precio": "30$",
+        "thumbnail": "https://www.avalco.cl/3650-thickbox_default/escoba5costuras.jpg",
+        "code": "121123",
+        "stock": "10",
+        "id": 9
+    },
+    {
+        "titulo": "Escoba",
+        "descripcion": "barre piso",
+        "precio": "30$",
+        "thumbnail": "https://www.avalco.cl/3650-thickbox_default/escoba5costuras.jpg",
+        "code": "121123",
+        "stock": "10",
+        "id": 10
+    },
+    {
+        "titulo": "marco",
+        "descripcion": "para cuadros",
+        "precio": "30$",
+        "thumbnail": "https://www.avalco.cl/3650-thickbox_default/escoba5costuras.jpg",
+        "code": "121123",
+        "stock": "10",
+        "id": 11
+    },
+    {
+        "titulo": "masrco",
+        "descripcion": "para cuadros",
+        "precio": "30$",
+        "thumbnail": "https://www.avalco.cl/3650-thickbox_default/escoba5costuras.jpg",
+        "code": "121123",
+        "stock": "10",
+        "id": 12
+    },
+    {
+        "titulo": "marco",
+        "descripcion": "para cuadros",
+        "precio": "30$",
+        "thumbnail": "https://www.avalco.cl/3650-thickbox_default/escoba5costuras.jpg",
+        "code": "121123",
+        "stock": "10",
+        "id": 13
+    },
+    {
+        "titulo": "marco",
+        "descripcion": "para cuadros",
+        "precio": "30$",
+        "thumbnail": "https://www.avalco.cl/3650-thickbox_default/escoba5costuras.jpg",
+        "code": "121123",
+        "stock": "10",
+        "id": 14
+    },
+    {
+        "titulo": "Nueva Escoba updateada 10000",
+        "descripcion": "Nueva descripción",
+        "precio": "40$",
+        "thumbnail": "https://www.example.com/nueva-imagen.jpg",
+        "code": "121123",
+        "stock": "15",
+        "id": 15
+    },
+    {
+        "titulo": "marco",
+        "descripcion": "para cuadros",
+        "precio": "30$",
+        "thumbnail": "https://www.avalco.cl/3650-thickbox_default/escoba5costuras.jpg",
+        "code": "121123",
+        "stock": "10",
+        "id": 16
+    },
+    {
+        "titulo": "marco",
+        "descripcion": "para cuadros",
+        "precio": "30$",
+        "thumbnail": "https://www.avalco.cl/3650-thickbox_default/escoba5costuras.jpg",
+        "code": "121123",
+        "stock": "10",
+        "id": 17
+    },
+    {
+        "titulo": "marco",
+        "descripcion": "para cuadros",
+        "precio": "30$",
+        "thumbnail": "https://www.avalco.cl/3650-thickbox_default/escoba5costuras.jpg",
+        "code": "121123",
+        "stock": "10",
+        "id": 18
+    },
+    {
+        "titulo": "marco",
+        "descripcion": "para cuadros",
+        "precio": "30$",
+        "thumbnail": "https://www.avalco.cl/3650-thickbox_default/escoba5costuras.jpg",
+        "code": "121123",
+        "stock": "10",
+        "id": 19
+    }
+]
