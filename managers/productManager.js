@@ -1,9 +1,8 @@
 // dependencia de los NPM
-import fs from 'fs';
-import crypto from 'crypto';
+import {promises} from 'fs'
 
 
-export default class ProductManager{
+class ProductManager{
     constructor(path) {
         this.path = path;
     }
@@ -11,23 +10,15 @@ export default class ProductManager{
 // obtencion productos devuelve arreglo vacio si no hay 
 
     getProducts = async () => {
-        try{
-             // leo contenido
-            if(fs.existsSync(this.path)){
-               const data = await fs.promises.readFile(this.path, 'utf-8');
-               const products = JSON.parse(data);
-               return products;
-            }
-             // sino arreglo vacio
-            else{
-                return[]
-            }
-        }
-        catch(error){
+        try {
+            const products = await promises.readFile(this.path, 'utf-8');
+            return JSON.parse(products);
+          } catch (error) {
             console.log(error);
-        }
+            return [];
+          }
     }
-
+/*
     //Creo productos
 
     addProducts = async (producto) =>{
@@ -116,4 +107,7 @@ export default class ProductManager{
         }
         
     }
+    */
 }
+
+export default ProductManager
