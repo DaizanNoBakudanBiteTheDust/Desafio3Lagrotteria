@@ -18,7 +18,7 @@ class ProductManager{
             return [];
           }
     }
-/*
+
     //Creo productos
 
     addProducts = async (producto) =>{
@@ -107,7 +107,7 @@ class ProductManager{
         }
         
     }
-    */
+    
 }
 
 export default ProductManager
