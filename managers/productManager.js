@@ -6,6 +6,7 @@ class ProductManager{
     constructor(path) {
         this.path = path;
     }
+    
 
 // obtencion productos devuelve arreglo vacio si no hay 
 
